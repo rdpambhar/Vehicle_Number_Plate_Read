@@ -1,0 +1,417 @@
+Code;District/City Name;Sit In
+A;Augsburg (Stadt);Augsburg
+A;Augsburg (Kreis);Augsburg
+AA;Ostalbkreis;Aalen
+AB;Aschaffenburg (Stadt);Aschaffenburg
+AB;Aschaffenburg (Kreis);Aschaffenburg
+ABG;Altenburger Land;Altenburg
+ABI;Anhalt-Bitterfeld;Köthen
+AC;Aachen;Aachen
+AIC;Aichach/Friedberg;Aichach
+AK;Altenkirchen;Altenkirchen
+AM;Amberg;Amberg
+AN;Ansbach (Stadt);Ansbach
+AN;Ansbach (Kreis);Ansbach
+AÖ;Altötting;Altötting
+AP;Weimarer Land;Apolda
+AS;Amberg-Sulzbach;Amberg
+AUR;Aurich;Aurich
+AW;Ahrweiler;Ahrweiler
+AZ;Alzey-Worms;Alzey
+B;Berlin;Berlin
+BA;Bamberg (Stadt);Bamberg
+BA;Bamberg (Kreis);Bamberg
+BAD;Baden-Baden;Baden-Baden
+BAR;Barnim;Eberswalde
+BB;Böblingen;Böblingen
+BC;Biberach;Biberach
+BGL;Berchtesgadener Land;Bad Reichenhall
+BI;Bielefeld;Bielefeld
+BIR;Birkenfeld;Birkenfeld
+BIT;Bitburg-Prüm;Bitburg/Eifel
+BK;Börde;Haldensleben
+BL;Zollernalbkreis;Balingen
+BLK;Burgenland;Naumburg(Saale)
+BM;Rhein-Erft-Kreis;Bergheim
+BN;Bonn;Bonn
+BO;Bochum;Bochum
+BOR;Borken;Borken
+BOT;Bottrop;Bottrop
+BRA;Wesermarsch;Brake
+BRB;Brandenburg;Brandenburg
+BS;Braunschweig;Braunschweig
+BT;Bayreuth (Stadt);Bayreuth
+BT;Bayreuth (Kreis);Bayreuth
+BÜS;Büsingen (LK Konstanz);Konstanz
+BZ;Bautzen;Bautzen
+C;Chemnitz;Chemnitz
+CB;Cottbus;Cottbus
+CE;Celle;Celle
+CHA;Cham;Cham
+CLP;Cloppenburg;Cloppenburg
+CO;Coburg (Stadt);Coburg
+CO;Coburg (Kreis);Coburg
+COC;Cochem-Zell;Cochem
+COE;Coesfeld;Coesfeld
+CUX;Cuxhaven;Cuxhaven
+CW;Calw;Calw
+D;Düsseldorf;Düsseldorf
+DA;Darmstadt (Stadt);Darmstadt
+DA;Darmstadt-Dieburg;Darmstadt
+DAH;Dachau;Dachau
+DAN;Lüchow-Dannenberg;Lüchow
+DAU;Daun;Daun
+DBR;Bad Doberan;Bad Doberan
+DD;Dresden;Dresden
+DE;Dessau-Roßlau;Dessau-Roßlau
+DEG;Deggendorf;Deggendorf
+DEL;Delmenhorst;Delmenhorst
+DGF;Dingolfing-Landau;Dingolfing
+DH;Diepholz;Diepholz
+DLG;Dillingen an der Donau;Dillingen an der Donau
+DM;Demmin;Demmin
+DN;Düren;Düren
+DO;Dortmund;Dortmund
+DON;Donau-Ries;Donauwörth
+DU;Duisburg;Duisburg
+DÜW;Bad Dürkheim;Bad Dürkheim
+E;Essen;Essen
+EA;Eisenach;Eisenach
+EBE;Ebersberg;Ebersberg
+ED;Erding;Erding
+EE;Elbe-Elster;Herzberg
+EF;Erfurt;Erfurt
+EI;Eichstätt;Eichstätt
+EIC;Eichsfeld;Eichsfeld
+EL;Emsland;Meppen
+EM;Emmendingen;Emmendingen
+EMD;Emden;Emden
+EMS;Rhein-Lahn-Kreis;Bad Ems
+EN;Ennepe-Ruhr-Kreis;Schwelm
+ER;Erlangen;Erlangen
+ERB;Odenwaldkreis;Erbach
+ERH;Erlangen-Höchstadt;Erlangen
+ERZ;Erzgebirgskreis;Annaberg-Buchholz
+ES;Esslingen am Neckar;Esslingen am Neckar
+ESW;Werra-Meißner-Kreis;Eschwege
+EU;Euskirchen;Euskirchen
+F;Frankfurt am Main;Frankfurt am Main
+FB;Wetteraukreis;Friedberg
+FD;Fulda;Fulda
+FDS;Freudenstadt;Freudenstadt
+FF;Frankfurt (Oder);Frankfurt(Oder)
+FFB;Fürstenfeldbruck;Fürstenfeldbruck
+FG;Mittelsachsen;Freiberg
+FL;Flensburg;Flensburg
+FN;Bodenseekreis;Friedrichshafen
+FO;Forchheim;Forchheim
+FR;Freiburg im Breisgau (Stadt);Freiburg im Breisgau
+FR;Breisgau-Hochschwarzwald;Freiburg im Breisgau
+FRG;Freyung-Grafenau;Freyung
+FRI;Friesland;Jever
+FS;Freising;Freising
+FT;Frankenthal;Frankenthal
+FÜ;Fürth (Stadt);Fürth
+FÜ;Fürth (Kreis);Fürth
+G;Gera;Gera
+GAP;Garmisch-Partenkirchen;Garmisch-Partenkirchen
+GE;Gelsenkirchen;Gelsenkirchen
+GER;Germersheim;Germersheim
+GF;Gifhorn;Gifhorn
+GG;Groß-Gerau;Groß-Gerau
+GI;Gießen;Gießen
+GL;Reinisch-Bergischer Kreis;Bergisch-Gladbach
+GM;Oberbergischer Kreis;Gummersbach
+GÖ;Göttingen;Göttingen
+GP;Göppingen;Göppingen
+GR;Görlitz;Görlitz
+GRZ;Greiz;Greiz
+GS;Goslar;Goslar
+GT;Gütersloh;Gütersloh
+GTH;Gotha;Gotha
+GÜ;Güstrow;Güstrow
+GZ;Günzburg;Günzburg
+H;Hannover (Region);Hannover
+HA;Hagen;Hagen
+HAL;Halle;Halle
+HAM;Hamm;Hamm
+HAS;Haßberge;Haßberge
+HB;Freie Hansestadt Bremen;Bremen
+HB;Bremerhaven;Bremerhaven
+HBN;Hildburghausen;Hildburghausen
+HD;Heidelberg (Stadt);Heidelberg
+HD;Rhein-Neckar-Kreis;Heidelberg
+HDH;Heidenheim (Brenz);Heidenheim
+HE;Helmstedt;Helmstedt
+HEF;Hersfeld-Rotenburg;Bad Hersfeld
+HEI;Dithmarschen;Heide
+HER;Herne;Herne
+HF;Herford;Herford
+HG;Hochtaunuskreis;Bad Homburg v. d. Höhe
+HGW;Hansestadt Greifswald;Greifswald
+HH;Freie und Hansestadt Hamburg;Hamburg
+HI;Hildesheim;Hildesheim
+HL;Hansestadt Lübeck;Lübeck
+HM;Hameln-Pyrmont;Hameln
+HN;Heilbronn (Stadt);Heilbronn
+HN;Heilbronn (Kreis);Heilbronn
+HO;Hof (Stadt);Hof
+HO;Hof (Kreis);Hof
+HOL;Holzminden;Holzminden
+HOM;Saarpfalz-Kreis;Homburg
+HP;Bergstraße;Heppenheim
+HR;Schwalm-Eder-Kreis;Homburg / Efze
+HRO;Hansestadt Rostock;Rostock
+HS;Heinsberg;Heinsberg
+HSK;Hochsauerlandkreis;Meschede
+HST;Hansestadt Stralsund;Stralsund
+HU;Hanau;Hanau
+HVL;Havelland;Rathenow
+HWI;Hansestadt Wismar;Wismar
+HX;Höxter;Höxter
+HZ;Harz;Halberstadt
+IGB;St. Ingbert;St. Ingbert
+IK;Ilmkreis;Arnstadt
+IN;Ingolstadt;Ingolstadt
+IZ;Steinburg;Itzehoe
+J;Jena;Jena
+JL;Jerichower Land;Burg
+K;Köln;Köln
+KA;Karlsruhe (Stadt);Karlsruhe
+KA;Karlsruhe (Kreis);Karlsruhe
+KB;Waldeck-Frankenberg;Korbach
+KC;Kronach;Kronach
+KE;Kempten;Kempten
+KEH;Kelheim;Kelheim
+KF;Kaufbeuren;Kaufbeuren
+KG;Bad Kissingen;Bad Kissingen
+KH;Bad Kreuznach (Stadt);Bad Kreuznach
+KH;Bad Kreuznach (Kreis);Bad Kreuznach
+KI;Kiel;Kiel
+KIB;Donnersbergkreis;Kirchheimbolanden
+KL;Kaiserslautern (Stadt);Kaiserslautern
+KL;Kaiserslautern (Kreis);Kaiserslautern
+KLE;Kleve;Kleve
+KN;Konstanz;Konstanz
+KO;Koblenz;Koblenz
+KR;Krefeld;Krefeld
+KS;Kassel (Stadt);Kassel
+KS;Kassel (Kreis);Kassel
+KT;Kitzingen;Kitzingen
+KU;Kulmbach;Kulmbach
+KÜN;Hohenlohekreis;Künzelsau
+KUS;Kusel;Kusel
+KYF;Kyffhäuserkreis;Sondershausen
+L;Leipzig (Stadt);Leipzig
+L;Leipzig (Kreis);Borna
+LA;Landshut (Stadt);Landshut
+LA;Landshut (Kreis);Landshut
+LAU;Nürnberger Land;Lauf a. d. Pegnitz
+LB;Ludwigsburg;Ludwigsburg
+LD;Landau in der Pfalz;Landau in der Pfalz
+LDK;Lahn-Dill-Kreis;Wetzlar
+LDS;Dahme-Spree;Lübben
+LER;Leer;Leer
+LEV;Leverkusen;Leverkusen
+LG;Lüneburg;Lüneburg
+LI;Lindau;Lindau
+LIF;Lichtenfels;Lichtenfels
+LIP;Lippe;Detmold
+LL;Landsberg am Lech;Landsberg am Lech
+LM;Limburg-Weilburg;Limburg
+LÖ;Lörrach;Lörrach
+LOS;Oder-Spree;Beeskow
+LU;Ludwigshafen am Rhein;Ludwigshafen am Rhein
+LWL;Ludwigslust;Ludwigslust
+M;München (Kreis);München
+MA;Mannheim;Mannheim
+MB;Miesbach;Miesbach
+MD;Magdeburg;Magdeburg
+ME;Mettmann;Mettmann
+MEI;Meißen;Meißen
+MG;Mönchengladbach;Mönchengladbach
+MH;Mülheim an der Ruhr;Mülheim an der Ruhr
+MI;Minden-Lübbecke;Minden
+MIL;Miltenberg;Miltenberg
+MK;Märkischer Kreis;Lüdenscheid
+MKK;Main-Kinzig-Kreis;Gelnhausen
+MM;Memmingen;Memmingen
+MN;Unterallgäu;Mindelheim
+MOL;Märkisch-Oderland;Seelow
+MOS;Neckar-Odenwald-Kreis;Mosbach
+MR;Marburg-Biedenkopf;Marburg
+MS;Münster;Münster
+MSH;Mansfeld-Südharz;Sangerhausen
+MSP;Main-Spessart;Karlstadt
+MST;Mecklenburg-Strelitz;Neustrelitz
+MTK;Main-Taunus-Kreis;Hofheim am Taunus
+MÜ;Mühldorf am Inn;Mühldorf am Inn
+MÜR;Müritz;Waren
+MYK;Mayen-Koblenz;Koblenz
+MZ;Mainz;Mainz
+MZ;Mainz-Bingen;Ingelheim
+MZG;Merzig-Wadern;Merzig
+N;Nürnberg;Nürnberg
+NB;Neubrandenburg;Neubrandenburg
+ND;Neuburg-Schrobenhausen;Neuburg an der Donau
+NDH;Nordhausen;Nordhausen
+NE;Neuss;Neuss
+NEA;Neustadt an der Aisch - Bad Windsheim;Neustadt an der Aisch
+NES;Rhön-Grabfeld;Bad Neustadt an der Saale
+NEW;Neustadt an der Waldnaab;Neustadt an der Waldnaab
+NF;Nordfriesland;Husum
+NI;Nienburg / Weser;Nienburg
+NK;Neunkirchen;Neunkirchen
+NM;Neumarkt;Neumarkt
+NMS;Neumünster;Neumünster
+NOH;Grafschaft Bentheim;Nordhorn
+NOM;Northeim;Northeim
+NR;Neuwied (Stadt);Neuwied
+NR;Neuwied (Kreis);Neuwied
+NU;Neu-Ulm;Neu-Ulm
+NVP;Nordvorpommern;Grimmen
+NW;Neustadt an der Weinstraße;Neustadt an der Weinstraße
+NWM;Nordwestmecklenburg;Grevesmühlen
+OA;Oberallgäu;Sonthofen
+OAL;Ostlallgäu;Marktoberdorf
+OB;Oberhausen;Oberhausen
+OD;Stormarn;Bad Oldesloe
+OE;Olpe;Olpe
+OF;Offenbach (Stadt);Offenbach
+OF;Offenbach (Kreis);Offenbach
+OG;Ortenaukreis;Offenburg
+OH;Ostholstein;Eutin
+OHA;Osterode am Harz;Osterode am Harz
+OHV;Oberhavel;Oranienburg
+OHZ;Osterholz;Osterholz-Scharmbeck
+OL;Oldenburg (Stadt);Oldenburg
+OL;Oldenburg (Kreis);Oldenburg
+OPR;Ostprignitz-Ruppin;Neuruppin
+OS;Osnabrück (Stadt);Osnabrück
+OS;Osnabrück (Kreis);Osnabrück
+OSL;Oberspreewald-Lausitz;Senftenberg
+OVP;Ostvorpommern;Anklam
+P;Potsdam;Potsdam
+PA;Passau (Stadt);Passau
+PA;Passau (Kreis);Passau
+PAF;Pfaffenhofen;Pfaffenhofen
+PAN;Rottal-Inn;Pfarrkirchen
+PB;Paderborn;Paderborn
+PCH;Parchim;Parchim
+PE;Peine;Peine
+PF;Pforzheim (Stadt);Pforzheim
+PF;Enzkreis;Pforzheim
+PI;Pinneberg;Pinneberg
+PIR;Sächsische Schweiz - Osterzgebirge;Pirna
+PLÖ;Plön;Plön
+PM;Potsdam-Mittelmark;Belzig
+PR;Prignitz;Perleberg
+PS;Pirmasens (Stadt);Pirmasens
+PS;Südwestpfalz;Pirmasens
+R;Regensburg (Stadt);Regensburg
+R;Regensburg (Kreis);Regensburg
+RA;Rastatt;Rastatt
+RD;Rendsburg-Eckernförde;Rendsburg
+RE;Recklinghausen;Recklinghausen
+REG;Regen;Regen
+RH;Roth;Roth
+RO;Rosenheim (Stadt);Rosenheim
+RO;Rosenheim (Kreis);Rosenheim
+ROW;Rotenburg (Wümme);Rotenburg (Wümme)
+RP;Rhein-Pfalz-Kreis;Ludwigshafen am Rhein
+RS;Remscheid;Remscheid
+RT;Reutlingen;Reutlingen
+RÜD;Rheingau-Taunus-Kreis;Bad Schwalbach
+RÜG;Rügen;Bergen
+RV;Ravensburg;Ravensburg
+RW;Rottweil;Rottweil
+RZ;Herzogtum Lauenburg;Ratzeburg
+S;Stuttgart;Stuttgart
+SAD;Schwandorf;Schwandorf
+SAW;Altmarkkreis Salzwedel;Salzwedel
+SB;Saarbrücken;Saarbrücken
+SC;Schwabach;Schwabach
+SDL;Stendal;Stendal
+SE;Segeberg;Bad Segeberg
+SFA;Soltau-Fallingbostel;Fallingbostel
+SG;Solingen;Solingen
+SHA;Schwäbisch-Hall;Schwäbisch-Hall
+SHG;Schaumburg;Stadthagen
+SHK;Saale-Holzland-Kreis;Eisenberg
+SHL;Suhl;Suhl
+SI;Siegen;Siegen
+SIG;Sigmaringen;Sigmaringen
+SIM;Rhein-Hunsrück-Kreis;Simmern
+SK;Saalekreis;Merseburg
+SL;Schleswig-Flensburg;Schleswig
+SLF;Saalfeld-Rudolstadt;Saalfeld
+SLK;Salzlandkreis;Bernburg
+SLS;Saarlouis;Saarlouis
+SM;Schmalkalden-Meiningen;Meiningen
+SN;Schwerin;Schwerin
+SO;Soest;Soest
+SÖM;Sömmerda;Sömmerda
+SOK;Saale-Orla-Kreis;Schleiz
+SON;Sonneberg;Sonneberg
+SP;Speyer;Speyer
+SPN;Spree-Neiße;Forst
+SR;Straubing (Stadt);Straubing
+SR;Straubing-Bogen;Straubing
+ST;Steinfurt;Steinfurt
+STA;Starnberg;Starnberg
+STD;Stade;Stade
+SU;Rhein-Sieg-Kreis;Siegburg
+SÜW;Südliche Weinstraße;Landau
+SW;Schweinfurt (Stadt);Schweinfurt
+SW;Schweinfurt (Kreis);Schweinfurt
+SZ;Salzgitter;Salzgitter
+TBB;Main-Tauber-Kreis;Tauberbischofs heim
+TDO;Nordsachsen;Torgau
+TF;Teltow-Fläming;Luckenwalde
+TIR;Tirschenreuth;Tirschenreuth
+TÖL;Bad Tölz-Wolfratshausen;Bad Tölz
+TR;Trier;Trier
+TS;Traunstein;Traunstein
+TÜ;Tübingen;Tübingen
+TUT;Tuttlingen;Tuttlingen
+UE;Uelzen;Uelzen
+UER;Uecker-Randow;Pasewalk
+UH;Unstrut-Hainich-Kreis;Mühlhausen
+UL;Ulm (Stadt);Ulm
+UL;Alb-Donau-Kreis;Ulm
+UM;Uckermark;Prenzlau
+UN;Unna;Unna
+V;Vogtlandkreis;Plauen
+VB;Vogelsbergkreis;Lauterbach
+VEC;Vechta;Vechta
+VER;Verden;Verden
+VIE;Viersen;Viersen
+VK;Völklingen;Völklingen
+VS;Schwarzwald-Baar-Kreis;Villingen-Schwenningen
+W;Wuppertal;Wuppertal
+WAF;Warendorf;Warendorf
+WAK;Wartburgkreis;Bad Salzungen
+WB;Wittenberg;Wittenberg
+WE;Weimar;Weimar
+WEN;Weiden;Weiden
+WES;Wesel;Wesel
+WF;Wolfenbüttel;Wolfenbüttel
+WHV;Wilhelmshaven;Wilhelmshaven
+WI;Wiesbaden;Wiesbaden
+WIL;Wittlich;Wittlich
+WL;Harburg;Winsen (Luhe)
+WM;Weilheim-Schongau;Weilheim
+WN;Rems-Murr-Kreis;Waiblingen
+WND;St. Wendel;St. Wendel
+WO;Worms;Worms
+WOB;Wolfsburg;Wolfsburg
+WST;Ammerland;Westerstede
+WT;Waldshut;Waldshut
+WTM;Wittmund;Wittmund
+WÜ;Würzburg (Stadt);Würzburg
+WÜ;Würzburg (Kreis);Würzburg
+WUG;Weißenburg-Gunzenhausen;Weißenburg
+WUN;Wunsiedel;Wunsiedel
+WW;Westerwaldkreis;Montabaur
+Z;Zwickau;Zwickau
+ZW;Zweibrücken;Zweibrücken
